@@ -21,11 +21,17 @@ gridor -g
 
 # INSTRUCTIONS
 ZOOM: scrolling mouse(UP, DOWN)
+
 MOVEMENT
+
 Arrows: UP, DOWN, LEFT, RIGHT
+
 COUNT OF ITTERATIONS: + -
+
 COLORS OF FRACTALS: 1, 2, 3, 4, 5
+
 RESET: ENTER
+
 EXIT: esc
 
 # Mandelbrot
