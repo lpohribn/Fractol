@@ -35,6 +35,11 @@ RESET: ENTER
 EXIT: esc
 
 # Mandelbrot
+![Alt Text](https://raw.githubusercontent.com/lpohribn/Fractol/master/sreenshots/Screen%20Shot%202019-02-13%20at%207.43.42%20PM.png)
 # Julia
-# Psyhodelic
+![Alt Text](https://raw.githubusercontent.com/lpohribn/Fractol/master/sreenshots/Screen%20Shot%202019-02-13%20at%207.47.59%20PM.png)
+![Alt Text](https://raw.githubusercontent.com/lpohribn/Fractol/master/sreenshots/Screen%20Shot%202019-02-13%20at%207.50.29%20PM.png)
 # BurningShip
+![Alt Text](https://raw.githubusercontent.com/lpohribn/Fractol/master/sreenshots/Screen%20Shot%202019-02-13%20at%208.59.06%20PM.png)
+# Psyhodelic
+![Alt Text](https://github.com/lpohribn/Fractol/blob/master/sreenshots/image%20(1).gif)
