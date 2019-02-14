@@ -10,19 +10,25 @@ In the project was also realized multithearding and multiprocessing, so you can 
 Fractal - Wikipedia (https://en.wikipedia.org/wiki/Fractal).
 # Usage
 ./fractol fractal1
+
 The correct name of fractal:
+
 mandelbrot or -m
+
 julia or -j
+
 burningship or -b
+
 tricorn or -t
+
 heart or -h
+
 celtic or -c
+
 gridor -g
 
 # INSTRUCTIONS
 ZOOM: scrolling mouse(UP, DOWN)
-
-MOVEMENT
 
 Arrows: UP, DOWN, LEFT, RIGHT
 
